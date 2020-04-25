@@ -1,0 +1,85 @@
+body {margin:0;
+    text-align: center;
+    font-family:'fantasy',Papyrus;
+    font-size:25px;}
+
+
+h1 {color: #66BFBF;
+   font Family:'Scarmento',cursive;
+    margin:50px auto 0 auto;}
+
+h2 {color: #66BFBF;
+    font family:'Montserrat' ,sans-serif;
+    font-weight: normal;
+}
+
+
+h3 {color :#11999E;
+    font family:'Montserrat' ,sans-serif;}
+
+.skill-row1 {width:50%;
+margin:100px auto 100px auto;
+text-align: left;
+}
+.skill-row2 {width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;}
+
+.skill-row3 {width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;}
+.profile {width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;}
+
+hr{ border:dotted grey 6px;
+border-bottom: none;
+width:3%;
+margin: 100px auto;  }
+
+
+.top-container {background-color: #E4F9F5;
+
+padding-top: 30px;}
+
+.middle-container {
+}
+.bottom-container{padding: 40px 0 20px;
+    background-color:#66BFBF;
+
+}
+
+.top-cloud {position:relative;
+left:240px;}
+
+
+.bottom-cloud {position: relative;
+ bottom:330px;
+ left:90px;}
+
+
+
+.coffee-img {border-radius: 50%;
+margin-bottom:30px;
+width:25%;}
+
+.computer-img {width: 30%;
+    float:left;
+border-radius: 150px;
+margin-right: 30px;}
+
+.chef-img {width:30%;
+float: right;
+margin-right: 30px;}
+
+.profile-img {width:30%;
+float:right;
+border-radius: 200px;
+margin-right: 30px;}
+
+.intro {width:80%;
+margin: auto;}
+
+.getintouch{width:30%;
+border-radius:200px;
+float:left ;}
